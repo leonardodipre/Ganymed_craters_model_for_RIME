@@ -1,2 +1,2 @@
 # Ganymed_craters_model_for_RIME
-Model of the tipes of diffrente craters present on the Ganymed surface, to use with RIME, in the mission of JUICE after the collection of radargram for its surface to understand the formation and the tipes of craters existing on icy moon.
+Design a comprehensive model delineating various crater types found on Ganymede's surface. This model is intended for integration with RIME (Radar for Icy Moon Exploration) during the JUICE (Jupiter Icy Moons Explorer) mission. Its purpose is to analyze the collected radargrams and gain insights into the formation processes and diverse categories of craters present on the icy moon's surface.
